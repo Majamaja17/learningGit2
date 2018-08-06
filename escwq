@@ -1,0 +1,38 @@
+* [33m9f7297b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: task-5-finished[m[33m, [m[1;32mtask-5[m[33m)[m Change3 komendy.txt
+* [33m984289c[m Add komendy.txt
+* [33mc437709[m Add package.json
+* [33mbd25814[m[33m ([m[1;33mtag: task-4-finished[m[33m, [m[1;32mtask-4[m[33m)[m Add merge2
+*   [33mc0997ad[m Merge branch 'task-4.2' into task-4
+[32m|[m[33m\[m  
+[32m|[m * [33me69249d[m[33m ([m[1;32mtask-4.2[m[33m)[m Add last paragraf on the end
+* [33m|[m [33madb37bf[m Merge with 4.1
+* [33m|[m   [33mcc0cc2b[m Merge branch 'task-4.1' into task-4
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33m6c1ea34[m[33m ([m[1;32mtask-4.1[m[33m)[m Add last paragraf on the end
+* [35m|[m [33m|[m   [33m4718340[m Channge after merge
+[35m|[m[33m\[m [35m\[m [33m\[m  
+[35m|[m [33m|[m[35m/[m [33m/[m  
+[35m|[m[35m/[m[33m|[m [33m/[m   
+[35m|[m [33m|[m[33m/[m    
+[35m|[m * [33m5b2bb32[m Change fotter font size
+[35m|[m * [33m7822d1b[m Add second paragraf on the end
+* [1;31m|[m [33mba73560[m Change fotter font size
+* [1;31m|[m [33md5f03ae[m Add second paragraf on the end
+[1;31m|[m[1;31m/[m  
+* [33mc7cdc7a[m[33m ([m[1;33mtag: task-3-finished[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Change header size
+* [33mde3ff2b[m Add reset.css
+* [33m124c795[m Change text size
+* [33m1e425e8[m Change text style
+* [33m253bb58[m Change text and div-paralax
+* [33m38fe590[m Change backgroun image
+* [33m6c91832[m Add footer anad paralax and their style
+* [33mb8b6507[m Add footer
+* [33m1dbe770[m Changes text
+* [33mc574770[m Add style
+* [33m3d6647c[m Add litle changes
+* [33mfe54ce9[m Add section part_3
+* [33m6e3dfe1[m Add section part_2
+* [33m4dd4c3b[m Add section part_1
+* [33m02fe691[m Add h1
+* [33mb106308[m Add html
+* [33mb229716[m Initial commit
